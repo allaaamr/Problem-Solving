@@ -1,5 +1,7 @@
+package DynamicProgramming;
+
 import java.util.*;
-public class SubsetSumDP {
+class SubsetSumDP {
 
 
     //Naive Recursive Approach

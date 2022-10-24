@@ -1,4 +1,6 @@
-class Solution {
+package Graphs;
+
+class FloodFill {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
      
        int current_color = image[sr][sc];

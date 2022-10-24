@@ -1,4 +1,6 @@
-public class islandsG {
+package Graphs;
+
+public class NumOfEnclaves {
         public static int numEnclaves(int[][] grid) {
             if (grid == null || grid.length == 0 || grid[0].length == 0)
                 return 0;

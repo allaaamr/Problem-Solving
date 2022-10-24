@@ -1,4 +1,6 @@
-class Solution {
+package Graphs;
+
+class MaxAreaOfIsland {
 
     public static int maxAreaOfIsland(int[][] grid) {
 

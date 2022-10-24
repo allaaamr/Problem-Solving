@@ -1,4 +1,6 @@
-public class SquidGame {
+package Graphs;
+
+class SquidGame {
 
     static String [] partitions;
     static String [] EPartitions;
