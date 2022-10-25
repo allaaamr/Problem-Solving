@@ -5,8 +5,6 @@ public class SimplifyPath_M {
 
         public static String simplifyPath(String path) {
 
-            boolean directoryUpFlag = false; //flag indicating we should go up
-            boolean firstDot = false; //flag indicating there is 1 dot in stack
             Stack stack = new Stack();
             String[] parts = path.split("/");
 
