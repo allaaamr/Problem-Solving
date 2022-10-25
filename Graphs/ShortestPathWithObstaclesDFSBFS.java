@@ -27,7 +27,7 @@ class Vertex {
     }
 }
 
-public class FinalGame {
+ class FinalGame {
 
     static boolean flag=true;
     public static String dfs (String grid) {
